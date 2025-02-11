@@ -9,7 +9,7 @@
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br><br><br>
     
-[![](https://img.shields.io/badge/codeforces?color=%23F758C4FF)](https://codeforces.com/profile/sunrayito)
+[![](https://img.shields.io/badge/codeforces)](https://codeforces.com/profile/sunrayito)
 
 [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis)
 
