@@ -10,7 +10,7 @@
 <br><br><br>
 
 
-[![](https://img.shields.io/badge/codeforces-8A2BE2)](https://github.com/sunrayito/sunrayito)
+[![](https://img.shields.io/badge/codeforces-8A2BE2)](https://codeforces.com/profile/sunrayito)
 
 
 
