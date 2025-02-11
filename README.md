@@ -8,7 +8,10 @@
 <br><br>
 <img src="https://raw.githubusercontent.com/sunrayito/sunrayito/main/assets/cinnamoroll.gif" height="100" />
 <br><br><br>
-    
+
+
+[![](https://img.shields.io/badge/codeforces-8A2BE2)](https://github.com/sunrayito/sunrayito)
+
 
 
 </div>
